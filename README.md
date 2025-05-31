@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm JBB, a product manager based in Paris 🇫🇷.  
+I work at the intersection of tech, design, and business to build meaningful (or not) digital products.  
+Currently exploring some exciting projects — more coming soon!
 <!--
 **JBB-DevProjects/JBB-DevProjects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
